@@ -1,4 +1,7 @@
+apt-get install unclutter
+
 sudo apt-get update
+
 sudo apt-get install firefox-esr
 
 
